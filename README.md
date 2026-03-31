@@ -22,7 +22,7 @@
 
 
 📫 Reach me on :
-# ( <a href="https://www.linkedin.com/in/xulaq/" target="_blank"><img align="center" src="./linkedin.png" alt="linkedin" width="35" /></a> ) &nbsp; OR &nbsp; ( <a href="https://www.facebook.com/xulaq/" target="_blank"><img align="center" src="./facebook.png" alt="facebook" width="35" /></a> ) &nbsp; OR &nbsp; ( <a href="https://abderrahmanechikh.dev" target="_blank">Portfolio</a> )
+# ( <a href="https://www.linkedin.com/in/vaantyyx/" target="_blank"><img align="center" src="./linkedin.png" alt="linkedin" width="35" /></a> ) &nbsp; OR &nbsp; ( <a href="https://www.facebook.com/vaantyyx/" target="_blank"><img align="center" src="./facebook.png" alt="facebook" width="35" /></a> ) &nbsp; OR &nbsp; ( <a href="https://abderrahmanechikh.dev" target="_blank">Portfolio</a> )
 
 </span>
 
